@@ -7,7 +7,7 @@ Cette application microservices est conçue pour gérer [décrire le domaine mé
 - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" height="30"/> &nbsp;&nbsp;**Spring Boot**
 - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" height="30"/> &nbsp;&nbsp;**Spring Cloud**
 - <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="30" height="30"/> &nbsp;&nbsp;**Angular**
-- <img src="https://devopsi.pl/wp-content/uploads/2021/02/Keycloak-1024x683.png" width="30" height="30"/> &nbsp;&nbsp;**Keycloak**
+- <img src="https://devopsi.pl/wp-content/uploads/2021/02/Keycloak-1024x683.png" width="40" height="40"/> &nbsp;&nbsp;**Keycloak**
 - <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30" height="30"/> &nbsp;&nbsp;**PostgreSQL**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30"/> &nbsp;&nbsp;**PGAdmin**
 - <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="30" height="30"/> &nbsp;&nbsp;**IntelliJ IDEA**
