@@ -567,6 +567,6 @@ ng serve
 
 ---
 
-**Auteur** : [Votre Nom]  
+**Auteur** : Abdelmonaim AHDOUD  
 **Date** : Novembre 2025  
 **Version** : 1.0.0
